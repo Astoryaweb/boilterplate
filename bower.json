@@ -1,0 +1,22 @@
+{
+  "name": "HTML5Boilterplate",
+  "version": "1.0.0",
+  "description": "An Other HTML5 Boilterplate",
+  "dependencies": {
+    "jquery": "1.*",
+    "jquery-ui": "1.*",
+    "less": "1.*",
+    "bootstrap": "3.*",
+    "angular": "1.2.*",
+    "angular-bootstrap": "*",
+    "angular-ui-utils": "*",
+    "angular-ui-select2": "*",
+    "angular-animate": "1.*",
+    "lodash": "2.*",
+    "normalize-css": "3.*",
+    "cssua": "http://bitbucket.org/mckamey/cssuseragent/raw/tip/cssua.js",
+    "animate": "https://github.com/daneden/animate.css.git",
+    "headjs": "1.*",
+    "jasny-bootstrap": "3.*"
+  }
+}

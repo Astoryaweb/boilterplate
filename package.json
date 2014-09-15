@@ -1,0 +1,9 @@
+{
+  "name": "Astorya-HTML5-Boilterplate",
+  "version": "1.0.0",
+  "description": "Astorya HTML5 Boilterplate",
+  "dependencies": {
+    "gulp": "3.*",
+    "less": "1.*"
+  }
+}
